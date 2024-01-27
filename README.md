@@ -13,12 +13,16 @@ United States Senator Mark Warner - Intern (Jan 2020 – Apr 2020): Revamped con
 Education 🎓
 Master's in Data Analytics, Western Governors University (2023)
 B.A. in Political Science and Government, Old Dominion University (2015 – 2019)
+
 Projects 📚
 Customer Churn, Medical Charges, and Revenue Data Analysis
 Sentiment Analysis using LSTM
 Predicting Hospital Readmissions and Customer Churn
+
 Skills 💡
+
 Python 🐍, SQL 🗃️, Data Analysis 📊, Machine Learning 🤖, Data Visualization 📈
+
 Explore my projects and feel free to connect for collaborations or queries! 🌟
 
 
