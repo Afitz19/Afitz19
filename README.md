@@ -3,9 +3,12 @@ README 📖
 Welcome to my GitHub! I'm a Data Scientist 🧑‍💻 with a master's in Data Analytics 📊, skilled in Python 🐍 and SQL 🗃️. My expertise includes automation 🤖, data pipeline development 🛠️, and leveraging Large Language Models (LLMs) 🧠 for business insights.
 
 Experience Highlights
-evolve24 (Data Scientist, Oct 2022 – Present): Led government project analysis 🔍, developed Python-based data pipelines 📈, and implemented OpenAI's models for text analysis and clustering 📚.
+evolve24 (Data Scientist, Oct 2022 – Present): Led government project analysis 🔍, developed Python-based data pipelines 📈, and implemented OpenAI's models for text analysis and clustering 📚.  
+
 DigiDems (Data Scientist, Jun 2022 – Oct 2022): Created GIS mapping system 🗺️, conducted SQL data queries 📋, and visualized campaign progress 📊.
+
 B & G Investments (Data Scientist, Mar 2020 – Jun 2022): Analyzed real estate data 🏠, developed API systems 🌐, and predicted market trends 📉.
+
 United States Senator Mark Warner - Intern (Jan 2020 – Apr 2020): Revamped constituent data system 💼 and supported outreach operations 🤝.
 Education 🎓
 Master's in Data Analytics, Western Governors University (2023)
