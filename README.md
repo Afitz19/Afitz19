@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Afitz19 I'm currently a data scientist 
-- 👀 I’m interested in Quant Economics, Data Science, Data Analytics 
-- 🌱 I’m currently learning Data Science, ML 
-- 💞️ I’m looking to collaborate on Trading Bots and Stock Evaluator 
+
 
 
 <!---
